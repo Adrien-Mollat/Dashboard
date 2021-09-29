@@ -15,7 +15,3 @@
 - find top20 games of year widget: Display the 20 most popular game of a year.
 
 - find informations about game widget: Display informations about a game with the name.
-
-## Marijuana Service
-
-- find strains list widget: Find the strains list that have a certain effect.
